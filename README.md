@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">My name is Ingrid Adine :)<br><br>🐣 I'm a Junior Software Engineer focused on expanding my skills in Front-End Development and UI Engineering to implement robust and scalable solutions that enhance user experience.<br><br>🌈  Throughout my career, I’ve developed a keen eye for creating intuitive and functional interfaces.<br><br>👛 I hold a degree in Design, specializing in UX/UI Design and Software Engineering. <br><br>🌠 I’m confident in improving communication and collaboration between design and development teams to ensure smoother project integration.<br><br>🇧🇷 Creative spirit from Brazil :)</p>
+<p align="left">My name is Ingrid Adine :)<br><br>🐣 I'm a Junior Software Developer focused on expanding my skills in Front-End Development and UI Engineering to implement robust and scalable solutions that enhance user experience.<br><br>🌈  Throughout my career, I’ve developed a keen eye for creating intuitive and functional interfaces.<br><br>👛 I hold a degree in Design, specializing in UX/UI Design and Software Engineering. <br><br>🌠 I’m confident in improving communication and collaboration between design and development teams to ensure smoother project integration.<br><br>🇧🇷 Creative spirit from Brazil :)</p>
 
 ###
 
