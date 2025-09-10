@@ -26,8 +26,21 @@
 
 ###
 
-<p align="left">My name is Ingrid Adine :)<br><br>🐣 Software Developer exploring the intersection of technology, design, and creative coding.
-I enjoy taking on challenges that push me out of my comfort zone and drive continuous learning — whether through code, connections, or ideas.<br><br>🌈  Throughout my career, I’ve developed a keen eye for creating intuitive and functional interfaces.<br><br>👛 I hold a degree in Design, specializing in UX/UI Design and Software Engineering. <br><br>🌠 I’m confident in improving communication and collaboration between design and development teams to ensure smoother project integration.<br><br>🇧🇷 Creative spirit from Brazil :)</p>
+<p align="left">
+My name is Ingrid Adine :)<br><br>
+
+💻 I am a Software Developer exploring the intersection of technology, design, and creative coding.<br><br>
+🐣 Currently, I'm learning backend technologies such as Java and Golang.<br><br>
+🌈 Throughout my career, I’ve developed a keen eye for creating intuitive and functional interfaces.<br><br>
+👛 I hold a degree in Design, specializing in UX/UI Design and Software Engineering.<br><br>
+✨ I'm good at creating visual identities and illustrations.<br><br>
+🎮 I love talking about World of Warcraft, anime, and cats (˵ •̀ ᴗ - ˵ ) ✧<br><br>
+🎧 My hobbies include listening to podcasts, drawing, playing WoW, and inventing new food recipes.<br><br>
+📌 And yes, I have unfinished projects — but that’s part of the creative process!<br><br>
+🌠 Creative spirit from Manaus, Brazil (AM).<br><br>
+💌 How to reach me: <strong>ingridadine.vasconcelos@gmail.com</strong>
+</p>
+
 
 ###
 
