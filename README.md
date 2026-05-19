@@ -33,9 +33,9 @@
 ⇨ I’ve always been interested in the way technology and people connect. My background includes experience in UX/UI Design, technical support, and software development, which allows me to approach problems with a more systemic and integrated perspective — considering not only technical aspects, but also usability and processes.<br><br>
 ♘ Interests in GRC (Governance, Risk, and Compliance) and IAM (Identity Access Management).<br><br>
 ♡ I love talking about World of Warcraft, anime, and cats.  <br><br>
-⇨ My hobbies include listening to podcasts, drawing, watching animes and doramas, and learning something new in a creative way.<br><br>
-⇨ And yes, I have unfinished projects — but that’s part of the creative process!<br><br>
-⇨ Creative spirit from Brazil.<br><br>
+⇨ My hobbies include learning something new in a creative way, listening to podcasts, drawing, watching animes.<br><br>
+⇨ And yes, I have unfinished projects — but that’s part of the process!<br><br>
+⇨ Brazilian nerd.<br><br>
 💌 How to reach me: <strong>ingridadine.vasconcelos@gmail.com</strong>
 </p>
 
